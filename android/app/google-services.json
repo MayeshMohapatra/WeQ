@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "343614877388",
+    "firebase_url": "https://weeq-9546f.firebaseio.com",
+    "project_id": "weeq-9546f",
+    "storage_bucket": "weeq-9546f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343614877388:android:9b2517214d088ea9e19c69",
+        "android_client_info": {
+          "package_name": "com.example.we_q"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343614877388-ol0gh5tsh21mp3lslo1om2pghsc7os8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBesLnZT6LxquvD0zHEa4gBChL4Ur4fUZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343614877388-ol0gh5tsh21mp3lslo1om2pghsc7os8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
